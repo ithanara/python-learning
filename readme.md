@@ -35,6 +35,8 @@ Você pode executar qualquer um dos projetos localmente seguindo os passos abaix
 
 ## 📚 Projetos
 
+Os projetos estão organizados em pastas de acordo com sua complexidade, sendo assim em 📁**first_steps** estão os códigos mais simples e em 📁**second_steps** os que me deram mais trabalho.
+
 ### ⚓ Batalha Quase Naval
 
 Um jogo inspirado em batalha naval, onde os inimigos estão posicionados em locais pré-determinados.
@@ -76,6 +78,19 @@ Projeto focado em:
 - Operações matemáticas
 
 - Organização de código
+
+### ☎️ Agenda de Contatinhos
+
+Neste projeto você interage com uma agenda de contatos diretamente pelo terminal 📟
+É possível cadastrar, editar, remover e visualizar contatinhos, além de salvar e carregar agendas em formato .json.
+
+Projeto focado em:
+
+- Dicionários e listas
+
+- Estruturas de repetição e condicionais
+
+- Manipulação de arquivos (TXT e JSON)
 
 ## 🚀 Próximos passos
 

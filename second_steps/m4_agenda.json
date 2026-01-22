@@ -1,0 +1,12 @@
+{
+    "Robson": {
+        "telefone": ["11 1234-5678"],
+        "email": ["robs@email.com", "robsonsilva@profissional.com"],
+        "endereco": ["Rua 123"]
+    },
+    "John Doe": {
+        "telefone": ["11 9874-5678"],
+        "email": ["johnzera@email.com", "john.d@profissional.com"],
+        "endereco": ["Rua 345"]
+    }
+}
