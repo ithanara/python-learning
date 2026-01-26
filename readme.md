@@ -79,6 +79,20 @@ Projeto focado em:
 
 - Organização de código
 
+### 🌡️ Termômetro de Palpites
+
+Neste projeto, o computador escolhe um número secreto entre 1 e 100 🤫
+
+Seu desafio é adivinhar qual é esse número, recebendo dicas a cada tentativa até acertar o alvo.
+
+Projeto focado em:
+
+- Estruturas de repetição (while)
+
+- Condicionais (if / elif / else)
+
+- Tratamento de erros com try / except
+
 ### ☎️ Agenda de Contatinhos
 
 Neste projeto você interage com uma agenda de contatos diretamente pelo terminal 📟
